@@ -47,8 +47,8 @@ Communication Channels
   to get back to me when you can.
 - **Video/phone is a synchronous medium.** If you need quick feedback, feel free
   to video-chat/call me.
-- **Email is great for blast communication** with large groups or collecting
-  your thoughts. I don't send these often.
+- **Email is great for blast communication** with large groups. I don't send
+  these often.
 - **Asana is great for accountability.** If you want to make sure I get something
   done, make an Asana task. If you don't make one, I probably will.
 
