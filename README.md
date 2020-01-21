@@ -1,7 +1,6 @@
-<sup>(4 minute read)</sup>
-
-What Is this?
+What Is this? <sup>_(4 minute read)_</sup>
 ===============================================================================
+
 
 This is a brief introduction to my values and **what you can expect when working
 with me.** Managers serve their direct reports and it is my job to help you be
