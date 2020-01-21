@@ -22,9 +22,8 @@ My Values
 ===============================================================================
 
 - **Everyone is attempting to do the _right thing_.** I assume positive intent.
-- **Failure is an opportunity for growth.** The difference between a senior and a
-  junior is how many mistakes they've made and how they've learned from those
-  mistakes.
+- **Failure is an opportunity for growth.** The difference between a junior and
+  a senior is the senior has had more mistakes to learn from.
 - **Honesty is not easy** in the short term, but it is easiest in the long term.
   I will be candid with you and I hope you will do the same with me.
 - **You know how to do your job.** I'm not here to tell you what to do, I'm here
