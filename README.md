@@ -41,8 +41,8 @@ Availability
 Communication Channels
 ===============================================================================
 
-- If I send you a message on the weekend, unless otherwise noted, don't worry
-  about responding till your next work day.
+- Don't worry about responding to off hours message until your next work day.
+  Unless otherwise noted.
 - **Slack is a great async medium.** If I slack you and you are busy, feel free
   to get back to me when you can.
 - **Video/phone is a synchronous medium.** If you need quick feedback, feel free
@@ -71,8 +71,8 @@ Quarterly Review
 -------------------------------------------------------------------------------
 
 - We will have a review meeting every quarter.
-- This is a time to reflect on the last quarter, identify successes and
-  opportunities for growth.
+- This is a time to reflect, celebrate successes, and identify opportunities
+  for growth.
 
 Disagreement
 ===============================================================================
