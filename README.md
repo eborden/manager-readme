@@ -41,7 +41,7 @@ Availability
 Communication Channels
 ===============================================================================
 
-- Don't worry about responding to off hours message until your next work day.
+- Don't worry about responding to off hours messages until your next work day.
   Unless otherwise noted.
 - **Slack is a great async medium.** If I slack you and you are busy, feel free
   to get back to me when you can.
