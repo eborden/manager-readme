@@ -49,8 +49,8 @@ Communication Channels
   to video-chat/call me.
 - **Email is great for blast communication** with large groups. I don't send
   these often.
-- **Asana is great for accountability.** If you want to make sure I get something
-  done, make an Asana task. If you don't make one, I probably will.
+- **Jira/Asana/Trello are great for accountability.** If you want to make sure I get
+  something done, make an Asana task. If you don't make one, I probably will.
 
 Feedback
 ===============================================================================
