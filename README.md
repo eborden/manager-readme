@@ -67,12 +67,14 @@ One on Ones
 - These meetings are for your benefit, not mine.
 - These are not status updates, we should strive to dig deeper.
 
-Quarterly Review
+Reviews
 -------------------------------------------------------------------------------
 
-- We will have a review meeting every quarter.
+- We will have regularly scheduled review meetings.
 - This is a time to reflect, celebrate successes, and identify opportunities
   for growth.
+- This is a "review", if I tell you something new in this meeting, then I've
+  screwed up!
 
 Disagreement
 ===============================================================================
